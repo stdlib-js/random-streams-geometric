@@ -543,6 +543,23 @@ $ random-geometric 0.2 -n 10 --seed 1234
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/geometric`][@stdlib/random/base/geometric]: geometric distributed pseudorandom numbers.
+-   [`@stdlib/random/iter/geometric`][@stdlib/random/iter/geometric]: create an iterator for generating pseudorandom numbers drawn from a geometric distribution.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -607,6 +624,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [geometric]: https://en.wikipedia.org/wiki/Geometric_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/geometric]: https://github.com/stdlib-js/random-base-geometric
+
+[@stdlib/random/iter/geometric]: https://github.com/stdlib-js/random-iter-geometric
+
+<!-- </related-links> -->
 
 </section>
 
